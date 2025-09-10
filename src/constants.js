@@ -3,6 +3,7 @@ export const DB_NAME = ""
 export const UserRolesEnum = {
   ADMIN: "ADMIN",
   USER: "USER",
+  FACULTY: "FACULTY"
 }
 
 export const AvailableUserRoles = Object.values(UserRolesEnum)
